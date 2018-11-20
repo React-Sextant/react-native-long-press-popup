@@ -9,7 +9,10 @@ export default class extends React.Component {
                 <TouchableOpacity ref={"button"}
                                   onLongPress={()=>{
                                       this.refs.button.measure((ox, oy, width, height, px, py) => {
-                                          Popover.show(width,height,py,[
+                                          Popover.show({
+                                              width:width,
+                                              height:0
+                                          },[
                                               {
                                                   name:'复制',
                                                   onPress:()=>{

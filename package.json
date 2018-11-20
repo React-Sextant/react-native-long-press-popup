@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "A React Native Popop Menu with long press open/长按上下文气泡菜单",
   "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "browserify": "latest",
+    "@types/browserify": "latest",
+    "typescript": "next"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

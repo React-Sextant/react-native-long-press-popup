@@ -4,9 +4,3 @@ A React Native Popop Menu with long press open
 ## Getting started
 
 `$ npm install react-native-long-press-popup@https://github.com/zhijiasoft/react-native-long-press-popup.git --save`
-
-## Usage
-
-```javascript
-
-```
