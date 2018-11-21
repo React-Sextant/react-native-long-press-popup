@@ -4,8 +4,8 @@ import PopupWindow from './lib/Popover'
 
 export default class Popover{
 
-    static show(event,menus,position) {
-        RootView.setView(<PopupWindow event={event} position={position} menus={menus}/>)
+    static show(menus,position,isTop) {
+        RootView.setView(<PopupWindow menus={menus} position={position} isTop={isTop}/>)
     }
 
     static hide() {
