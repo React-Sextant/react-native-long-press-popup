@@ -1,10 +1,10 @@
 # React Native仿QQ/微信/iOS 长按文本弹出上下文菜单
 A React Native Popop Menu with long press open
 
-<img src="https://github.com/zhijiasoft/react-native-long-press-popup/blob/master/example/demo.png" style="width:100%;"/>
+<img src="https://github.com/react-sextant/react-native-long-press-popup/blob/master/example/demo.png" style="width:100%;"/>
 ## Getting started
 
-`$ npm install react-native-long-press-popup@https://github.com/zhijiasoft/react-native-long-press-popup.git --save`
+`$ npm install git+https://git@github.com/react-sextant/react-native-long-press-popup.git --save`
 
 ## Usage
 

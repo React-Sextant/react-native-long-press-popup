@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhijiasoft/react-native-long-press-popup.git"
+    "url": "git+https://github.com/react-sextant/react-native-long-press-popup.git"
   },
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
   "author": "https://github.com/1uokun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhijiasoft/react-native-long-press-popup/issues"
+    "url": "https://github.com/react-sextant/react-native-long-press-popup/issues"
   },
-  "homepage": "https://github.com/zhijiasoft/react-native-long-press-popup#readme"
+  "homepage": "https://github.com/react-sextant/react-native-long-press-popup#readme"
 }

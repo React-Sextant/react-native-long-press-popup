@@ -1,5 +1,5 @@
 /**
- * TypeScript declaration for https://github.com/zhijiasoft/react-native-long-press-popup
+ * TypeScript declaration for https://github.com/react-sextant/react-native-long-press-popup
  *
  * @author Luo Kun <1498710037@qq.com>
  */
